@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--Dados da Versao                                                                -->
+<!--Identificador     :92                                                          -->
+<!--Numero            :2                                                           -->
+<!--Tipo              :PPA                                                         -->
+<!--Vigencia          :2022                                                        -->
+<!--Nome              :ORIGINAL - APROVADA PELA CAMARA                             -->
+<!--Data de Validacao :14/12/2021                                                  -->
+<!--Periodo           :Inicial-->
+<CadastroPlanejamento xmlns="http://www.tce.sp.gov.br/audesp/xml/planejamento" xmlns:aux="http://www.tce.sp.gov.br/audesp/xml/auxiliar" xmlns:gen="http://www.tce.sp.gov.br/audesp/xml/generico" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tce.sp.gov.br/audesp/xml/planejamento ../pecasplanejamento/AUDESP_CADASTRO_PLANEJAMENTO_2022_A.XSD">
+   <Descritor>
+      <gen:AnoExercicio>2022</gen:AnoExercicio>
+      <gen:TipoDocumento>PLAN-CADASTRO</gen:TipoDocumento>
+      <gen:Entidade>1</gen:Entidade>
+      <gen:Municipio>6607</gen:Municipio>
+      <gen:DataCriacaoXML>2022-01-27</gen:DataCriacaoXML>
+      <gen:CicloOrcamento>5</gen:CicloOrcamento>
+   </Descritor>
+   <LeisDecretos>
+      <Legislacao Tipo="03">
+         <aux:Numero>05360/2021</aux:Numero>
+         <aux:DataPublicacao>2021-12-31</aux:DataPublicacao>
+         <aux:DataVigencia>2022-01-01</aux:DataVigencia>
+      </Legislacao>
+      <Descricao> Lei Orcamentaria Anual - Inicial </Descricao>
+   </LeisDecretos>
+   <LeisDecretos>
+      <Legislacao Tipo="03">
+         <aux:Numero>05354/2021</aux:Numero>
+         <aux:DataPublicacao>2021-12-10</aux:DataPublicacao>
+         <aux:DataVigencia>2022-01-01</aux:DataVigencia>
+      </Legislacao>
+      <Descricao> Lei de Diretrizes Orcamentarias - Inicial </Descricao>
+   </LeisDecretos>
+   <Programa>
+      <NumeroPrograma>0000</NumeroPrograma>
+      <TipoPrograma>2</TipoPrograma>
+      <ClassificacaoPrograma>2</ClassificacaoPrograma>
+      <NomePrograma>ENCARGOS ESPECIAIS</NomePrograma>
+      <ObjetivoPrograma>GARANTIR UMA GESTAO FISCAL RESPONSAVEL COM RECURSOS ORCAMENTARIOS SUFICIENTES PARA HONRAR OS COMPROMISSSOS ASSUMIDOS.</ObjetivoPrograma>
+      <JustificativaPrograma>ALOCAR RECURSOS ORCAMENTARIOS DESTINADOS AO PAGAMENTO DA DIVIDA PUBLICA, PRECATORIOS, ACOES INDENIZATORIAS DE PEQUENOVALOR E CONTRIBUICAO AO PASEP.</JustificativaPrograma>
+      <Indicador>
+         <CodigoIndicador>1</CodigoIndicador>
+         <NomeIndicador>REDUCAO DA DIVIDA EM RELACAO A RCL</NomeIndicador>
+         <UnidadeMedida>%    </UnidadeMedida>
+      </Indicador>
+      <NaoAtreladoODS/>
+   </Programa>
+   <Programa>
+      <NumeroPrograma>0002</NumeroPrograma>
+      <TipoPrograma>2</TipoPrograma>
+      <ClassificacaoPrograma>2</ClassificacaoPrograma>
+      <NomePrograma>ADMINISTRACAO EFICIENTE, TRANSPARENTE E DIFERENTE</NomePrograma>
+      <ObjetivoPrograma>MELHORAR A CAPACIDADE DE ATENDIMENTO A POPULACAO, AGILIZAROS SERVICOS DE INTERESSE COMUM AOS MUNICIPES, BEM COMO DESENVOLVER ATIVIDADES DO GABINETE DO PREFEITO, DEPENDENCIAS EDEMAIS UNIDADES ADMINISTRATIVAS DO MUNICIPIO.</ObjetivoPrograma>
+      <JustificativaPrograma>PROMOVER A GESTAO PUBLICA QUE SE TRADUZ EM EFICIENCIA ADMI-NISTRATIVA EM TODAS AS AREAS DA ADMINISTRACAO, MAIOR QUALI-DADE NA GESTAO DE PESSOAS E MELHOR ATENDIMENTO AOS CIDADAOSDISSEMINANDO UM MODELO DE GOVERNO QUE PREZA PELO PLANEJAMENTO ORIENTADO PARA RESULTADOS, TRANSPARENCIA, EQUILIBRIO DASCONTAS PUBLICAS E RESPONSABILIDADE FISCAL; CRIACAO DE SISTEMAS INTERNOS DE CONTROLE E MONITORAMENTO GERENCIAL DAS PU -BLICAS.</JustificativaPrograma>
+      <Indicador>
+         <CodigoIndicador>2</CodigoIndicador>
+         <NomeIndicador>ATIVIDADES ADMINISTRATIVAS REALIZADAS</NomeIndicador>
+         <UnidadeMedida>%    </UnidadeMedida>
+      </Indicador>
+      <Ods>
+         <CodigoODS>16</CodigoODS>
+         <Metas>
+            <CodigoMeta>244</CodigoMeta>
+         </Metas>
+      </Ods>
+   </Programa>
+   <Programa>
+      <NumeroPrograma>0003</NumeroPrograma>
+      <TipoPrograma>2</TipoPrograma>
+      <ClassificacaoPrograma>1</ClassificacaoPrograma>
+      <NomePrograma>ENSINO COM EXCELENCIA, TECNOLOGIA E OPORTUNIDADES</NomePrograma>
+      <ObjetivoPrograma>MELHORAR A POSICAO DO MUNICIPIO NO RANKING DO IDEB, FOMENTAR A EDUCACAO DE JOVENS E ADULTOS, FORMAR CIDADAOS COM CONHECIMENTOS EM EDUCACAO FINANCEIRA, AMBIENTAL, SEGURANCA E HABILIDADES PARA O MERCADO DE TRABALHO.</ObjetivoPrograma>
+      <JustificativaPrograma>APERFEICOAR O PROCESSO DE ENSINO E APRENDIZAGEM, PROMOVER ODESENVOLVIMENTO INTEGRAL DAS CRIANCAS E JOVENS, ESTIMULAR APARTICIPACAO FAMILIAR NA FORMACAO DOS ALUNOS, ASSEGURAR  ACAPACITACAO CONTINUADA DOS PROFESSORES E EQUIPES PEDAGOGICAAMPLIAR A OFERTA DE VAGAS ESCOLARES E ASSEGURAR O ACESSO  AEDUCANDOS COM NECESSIDADES ESPECIAIS, DESENVOLVER PRATICASPEDAGOCICAS ALIDADAS A TECNOLOGIA.</JustificativaPrograma>
+      <Indicador>
+         <CodigoIndicador>3</CodigoIndicador>
+         <NomeIndicador>AUMENTO DO NUMERO DE ALUNOS MATRICULADOS</NomeIndicador>
+         <UnidadeMedida>QUANTIDADE</UnidadeMedida>
+      </Indicador>
+      <Ods>
+         <CodigoODS>2</CodigoODS>
+         <Metas>
+            <CodigoMeta>108</CodigoMeta>
+         </Metas>
+      </Ods>
+      <Ods>
+         <CodigoODS>4</CodigoODS>
+         <Metas>
+            <CodigoMeta>129</CodigoMeta>
+            <CodigoMeta>130</CodigoMeta>
+            <CodigoMeta>132</CodigoMeta>
+            <CodigoMeta>133</CodigoMeta>
+            <CodigoMeta>134</CodigoMeta>
+            <CodigoMeta>136</CodigoMeta>
+            <CodigoMeta>138</CodigoMeta>
+         </Metas>
+      </Ods>
+      <Ods>
+         <CodigoODS>11</CodigoODS>
+         <Metas>
+            <CodigoMeta>197</CodigoMeta>
+         </Metas>
+      </Ods>
+      <Ods>
+         <CodigoODS>16</CodigoODS>
+         <Metas>
+            <CodigoMeta>245</CodigoMeta>
+         </Metas>
+      </Ods>
+   </Programa>
+   <Programa>
+      <NumeroPrograma>0004</NumeroPrograma>
+      <TipoPrograma>2</TipoPrograma>
+      <ClassificacaoPrograma>1</ClassificacaoPrograma>
+      <NomePrograma>SAUDE COM EXCELENCIA E BOAS PRATICAS</NomePrograma>
+      <ObjetivoPrograma>ASSEGURAR A EFICIENCIA NA REDE MUNICIPAL DE SAUDE ATRAVES DA OTIMIZACAO DOS ATENDIMENTOS, CAPACITACAO DOS PROFISSIONAIS DE SAUDE, EXTENSAO DOS PROFISSIONAIS DE SAUDE, EXTENSAO DOS HORARIOS DE FUNCIONAMENTOS NAS UBS, PARCERIAS PUBLICO/PRIVADAS, INFORMATIZACAO DOS PROCESSOS, INVESTIMENTOS EM CAMP</ObjetivoPrograma>
+      <JustificativaPrograma>APERFEICOAR OS INSTRUMENTOS DE GESTAO DA REDE MUNICIPAL  DESAUDE, BUSCANDO EFICIENCIA NA APLICACAO DOS RECURSOS PUBLI-COS, AGILIDADE E GARANTIA DO ATENDIMENTO INTEGRAL DA DEMAN-DA SOCIAL, REDUCAO DA MORBIMORTALIDADE DECORRENTE DAS DOEN-CAS E AGRAVOS PREVALENTES, ALEM DE DE PRIORIZAR A INTENSIFICACAO DE ACOES DE CARATER PREVENTIVO E COLETIVO COM FOCO NAQUALIDADE DO ATENDIMENTO A COMUNIDADE, INFORMATIZACAO NOSPROCESSOS DE AGENDAMENTO, DISPONIBILIDADE DE PROFISSIONAISE EXAMES, COM ESPECIAL ATENCAO AS CRIANCAS E IDOSOS, BEM COMO AMPLIACAO NO ATENDIMENTO GINECOLOGICO, PEDIATRICO E CLI-NICO MEDICO.</JustificativaPrograma>
+      <Indicador>
+         <CodigoIndicador>13</CodigoIndicador>
+         <NomeIndicador>IMPLANTAR PRONTUARIO ELETRONICO DO CIDADAO POR MEIO DO SISTE</NomeIndicador>
+         <UnidadeMedida>%    </UnidadeMedida>
+      </Indicador>
+      <Ods>
+         <CodigoODS>2</CodigoODS>
+         <Metas>
+            <CodigoMeta>109</CodigoMeta>
+         </Metas>
+      </Ods>
+      <Ods>
+         <CodigoODS>3</CodigoODS>
+         <Metas>
+            <CodigoMeta>116</CodigoMeta>
+            <CodigoMeta>117</CodigoMeta>
+            <CodigoMeta>118</CodigoMeta>
+            <CodigoMeta>119</CodigoMeta>
+            <CodigoMeta>120</CodigoMeta>
+            <CodigoMeta>123</CodigoMeta>
+         </Metas>
+      </Ods>
+      <Ods>
+         <CodigoODS>11</CodigoODS>
+         <Metas>
+            <CodigoMeta>197</CodigoMeta>
+         </Metas>
+      </Ods>
+      <Ods>
+         <CodigoODS>16</CodigoODS>
+         <Metas>
+            <CodigoMeta>245</CodigoMeta>
+         </Metas>
+      </Ods>
+   </Programa>
+   <Programa>
+      <NumeroPrograma>0005</NumeroPrograma>
+      <TipoPrograma>2</TipoPrograma>
+      <ClassificacaoPrograma>1</ClassificacaoPrograma>
+      <NomePrograma>APRIMORAMENTO E GARANTIA DOS DIREITOS SOCIAIS</NomePrograma>
+      <ObjetivoPrograma>CONSOLIDAR E AMPLIAR A ASSISTENCIA SOCIAL A POPULACAO MENOSFAVORECIDA ENQUANTO POLITICA PUBLICA DE PROTECAO SOCIAL, ATRAVES DO FORTALECIMENTO DO SISTEMA UNICO DE ASSISTENCIA SOCIAL - SUAS NO MUNICIPIO, ADESAO AO "PROGRAMA MUNICIPIO AMIGO DA FAMILIA", AMPLIACAO DOS ATENDIMENTOS NOS CENTROS DE R</ObjetivoPrograma>
+      <JustificativaPrograma>REALIZAR A GESTAO DO SISTEMA UNICO DE ASSISTENCIA SOCIAL -SUAS E EXECUTAR AS POLITICAS PUBLICAS DE PROTECAO SOCIAL,PRIORIZANDO O DESENVOLVIMENTO DE ACOES INTEGRADAS, GARANTINDO O ATENDIMENTO DAS PESSOAS E FAMILIAS QUE SE ENCONTRAM EMSITUACAO DE RISCO, CARENCIA SOCIO ECONOMICA,VULNERABILIDADESOCIAL, VISANDO A REDUCAO DAS DESIGUALDADES SOCIAIS, VALORIZACAO DA FAMILIA, INCLUSAO SOCIAL E INSERCAO NO MERCADO DETRABALHO.</JustificativaPrograma>
+      <Indicador>
+         <CodigoIndicador>5</CodigoIndicador>
+         <NomeIndicador>AUMENTO DO NUMERO DE FAMILIAS ATENDIDAS</NomeIndicador>
+         <UnidadeMedida>QUANTIDADE</UnidadeMedida>
+      </Indicador>
+      <Ods>
+         <CodigoODS>1</CodigoODS>
+         <Metas>
+            <CodigoMeta>101</CodigoMeta>
+            <CodigoMeta>102</CodigoMeta>
+         </Metas>
+      </Ods>
+      <Ods>
+         <CodigoODS>2</CodigoODS>
+         <Metas>
+            <CodigoMeta>108</CodigoMeta>
+         </Metas>
+      </Ods>
+      <Ods>
+         <CodigoODS>5</CodigoODS>
+         <Metas>
+            <CodigoMeta>140</CodigoMeta>
+            <CodigoMeta>141</CodigoMeta>
+         </Metas>
+      </Ods>
+      <Ods>
+         <CodigoODS>10</CodigoODS>
+         <Metas>
+            <CodigoMeta>182</CodigoMeta>
+         </Metas>
+      </Ods>
+      <Ods>
+         <CodigoODS>11</CodigoODS>
+         <Metas>
+            <CodigoMeta>197</CodigoMeta>
+         </Metas>
+      </Ods>
+      <Ods>
+         <CodigoODS>16</CodigoODS>
+         <Metas>
+            <CodigoMeta>239</CodigoMeta>
+            <CodigoMeta>240</CodigoMeta>
+            <CodigoMeta>245</CodigoMeta>
+         </Metas>
+      </Ods>
+   </Programa>
+   <Programa>
+      <NumeroPrograma>0006</NumeroPrograma>
+      <TipoPrograma>2</TipoPrograma>
+      <ClassificacaoPrograma>2</ClassificacaoPrograma>
+      <NomePrograma>CRESCIMENTO ECONOMICO E AGRICOLA</NomePrograma>
+      <ObjetivoPrograma>FOMENTAR A EXPANSAO DAS ATIVIDADES ECONOMICAS DO MUNICIPIO,POTENCIALIZAR A GERACAO DE EMPREGOS E FOMENTAR A AGRICULTURA COMO FONTE DE RENDA DOS PEQUENOS PRODUTORES; MELHORAR AADEQUACAO DE ESTRADAS RURAIS, PROPORCIONAR AQUISICAO DE ,MAQUINAS E EQUIPAMENTOS PARA A MANUTENCAO.</ObjetivoPrograma>
+      <JustificativaPrograma>PROMOVER O DESENVOLVIMENTO ECONOMICO ARTICULANDO POLITICASQUE PERMITAM A EXPANSAO DA ATIVIDADE ECONOMICA MEDIANTE AAMPLIACAO DA OFERTA DE EMPREGO POR MEIO DA ATRACAO DE NOVASEMMPRESAS E DE PARCERIA ESTRATEGICAS, INCENTIVAR PROJETOSQUE VISEM A EXPANSAO DA ATIVIDADE TURISTICA DO MUNICIPIO  EPROJETOS DE INCENTIVO E APOIO A AGRICULTURA E AGRONEGOCIOVISANDO VALORIZAR A TERRA.</JustificativaPrograma>
+      <Indicador>
+         <CodigoIndicador>6</CodigoIndicador>
+         <NomeIndicador>AUMENTO PERCENTUAL DA POPULACAO EMPREGADA</NomeIndicador>
+         <UnidadeMedida>%    </UnidadeMedida>
+      </Indicador>
+      <Ods>
+         <CodigoODS>2</CodigoODS>
+         <Metas>
+            <CodigoMeta>110</CodigoMeta>
+            <CodigoMeta>111</CodigoMeta>
+         </Metas>
+      </Ods>
+      <Ods>
+         <CodigoODS>8</CodigoODS>
+         <Metas>
+            <CodigoMeta>161</CodigoMeta>
+            <CodigoMeta>162</CodigoMeta>
+            <CodigoMeta>163</CodigoMeta>
+         </Metas>
+      </Ods>
+      <Ods>
+         <CodigoODS>12</CodigoODS>
+         <Metas>
+            <CodigoMeta>210</CodigoMeta>
+         </Metas>
+      </Ods>
+   </Programa>
+   <Programa>
+      <NumeroPrograma>0007</NumeroPrograma>
+      <TipoPrograma>2</TipoPrograma>
+      <ClassificacaoPrograma>1</ClassificacaoPrograma>
+      <NomePrograma>ESPORTE, LAZER E RECREACAO</NomePrograma>
+      <ObjetivoPrograma>AMPLIAR O ACESSO DA POPULACAO AO ESPORTE, ATRAVES DA MODERNIZACAO E AMPLIACAO DA INFRAESTRUTURA ESPORTIVA VISANDO A PRATICA DO ESPORTE DE CARATER EDUCATIVO, PARTICIPATIVO, COMPETITIVO E DE INCLUSAO SOCIAL, BEM COMO ZELAR PELOS PARQUES,PRACAS E AREAS VERDES PARA QUE SE TORNEM ATRATIVOS DE LAZER</ObjetivoPrograma>
+      <JustificativaPrograma>IMPLEMENTAR INICIATIVAS LIGADAS A PRATICA ESPORTIVA COMOPROMOCAO A SAUDE, PROMOVER UM ESTILO DE VIDA DE QUALIDADE,INCENTIVAR A PRATICA DO ESPORTE PARA FINS EDUCACIONAIS DERENDIMENTO E LAZAR, DESENVOLVER EVENTOS ESPORTIVOS EM MODA-LIDADES DIVERSIFICADAS, BEM COMO INCENTIVAR A UTILIZACAO DOS PARQUES, PRACAS E AREAS VERDES PARA FINS DE LAZER.</JustificativaPrograma>
+      <Indicador>
+         <CodigoIndicador>7</CodigoIndicador>
+         <NomeIndicador>EVENTOS ESPORTIVOS REALIZADOS</NomeIndicador>
+         <UnidadeMedida>QUANTIDADE</UnidadeMedida>
+      </Indicador>
+      <Ods>
+         <CodigoODS>3</CodigoODS>
+         <Metas>
+            <CodigoMeta>119</CodigoMeta>
+         </Metas>
+      </Ods>
+      <Ods>
+         <CodigoODS>10</CodigoODS>
+         <Metas>
+            <CodigoMeta>182</CodigoMeta>
+         </Metas>
+      </Ods>
+      <Ods>
+         <CodigoODS>11</CodigoODS>
+         <Metas>
+            <CodigoMeta>197</CodigoMeta>
+         </Metas>
+      </Ods>
+   </Programa>
+   <Programa>
+      <NumeroPrograma>0008</NumeroPrograma>
+      <TipoPrograma>2</TipoPrograma>
+      <ClassificacaoPrograma>2</ClassificacaoPrograma>
+      <NomePrograma>DESENVOLVIMENTO AMBIENTAL COM SUSTENTABILIDADE</NomePrograma>
+      <ObjetivoPrograma>ADOTAR PRATICAS RESPONSAVEIS NO USO DOS RECURSOS NATURAIS PARA SUPRIR AS NECESSIDADES DO DIA A DIA DA POPULACAO SEM QUE ISSO COMPROMETA AS PROXIMAS GERACOES.</ObjetivoPrograma>
+      <JustificativaPrograma>GARANTIR A PROTECAO DO MEIO AMBIENTE POR MEIO DE BOAS PRATICAS DE PLANEJAMENTO URBANO, USO EFICIENTE DOS RECURSOS NATURAIS, PRESERVACAO DOS RECURSOS HIDRICOS, AMPLIACAO DA COBERTURA VEGETAL, MANEJO DOS RESIDUOS SOLIDOS, PROMOVENDO UMA INTEGRACAO HARMONICA ENTRE AS PESSOAS E O MEIO AMBIENTE; AVANCAR EM PROJETOS DE RECICLAGEM E DE EDUCACAO AMBIENTAL NASESCOLA; E PROMOVER ACOES RELACIONADAS A ZELADORIA DA CIDADEPOR MEIO DA LIMPEZA DOS ESPACOS PUBLICOS.</JustificativaPrograma>
+      <Indicador>
+         <CodigoIndicador>8</CodigoIndicador>
+         <NomeIndicador>TONELADAS DE RESIDUOS TRANSPORTADOS POR ANO</NomeIndicador>
+         <UnidadeMedida>QUANTIDADE</UnidadeMedida>
+      </Indicador>
+      <Ods>
+         <CodigoODS>6</CodigoODS>
+         <Metas>
+            <CodigoMeta>148</CodigoMeta>
+            <CodigoMeta>151</CodigoMeta>
+            <CodigoMeta>155</CodigoMeta>
+         </Metas>
+      </Ods>
+      <Ods>
+         <CodigoODS>12</CodigoODS>
+         <Metas>
+            <CodigoMeta>202</CodigoMeta>
+            <CodigoMeta>205</CodigoMeta>
+            <CodigoMeta>208</CodigoMeta>
+         </Metas>
+      </Ods>
+      <Ods>
+         <CodigoODS>15</CodigoODS>
+         <Metas>
+            <CodigoMeta>236</CodigoMeta>
+         </Metas>
+      </Ods>
+   </Programa>
+   <Programa>
+      <NumeroPrograma>0009</NumeroPrograma>
+      <TipoPrograma>2</TipoPrograma>
+      <ClassificacaoPrograma>1</ClassificacaoPrograma>
+      <NomePrograma>PLURALIDADE CULTURAL E FOMENTO DO TURISMO</NomePrograma>
+      <ObjetivoPrograma>OFERECER ALTERNATIVAS PARA PARTICIPACAO EM EVENTOS CULTURAIS PATROCINADOS PELO MUNICIPIO OU ATRAVES DE PARCERIAS, ALEMDE PROMOVER A CULTURA NA FORMA DE FORTALECIMENTO DA IDENTIDADE PESSOAL DO INDIVIDUO E CONDICOES DE BEM-ESTAR, CONTRIBUINDO PARA REVERTER PROBLEMAS SOCIAIS NO USO DE DROGAS E CR</ObjetivoPrograma>
+      <JustificativaPrograma>PROMOVER O DESENVOLVIMENTO DAS ATIVIDADES CULTURAIS E DO TURISMO COM A REALIZACAO DE EVENTOS E DESENVOLVIMENTO DE PRO-JETOS PATROCINADOS PELO MUNICIPIO, INCENTIVAR A PRODUCAOCULTURAL E TURISTICA POR MEIO DE ACOES VOLTADAS A VALORIZA-CAO ARTISTICA, INVESTIR NA RESTAURACAO DE PATRIMONIOS HISTORICOS E ESPACOS CULTURAIS VISANDO ESTIMULAR O USO DOS MES -MOS E IMPLEMENTACAO DA BIBLIOTECA DIGITAL PARA INCENTIVO ALEITURA.</JustificativaPrograma>
+      <Indicador>
+         <CodigoIndicador>9</CodigoIndicador>
+         <NomeIndicador>EVENTOS CULTURAIS REALIZADOS</NomeIndicador>
+         <UnidadeMedida>QUANTIDADE</UnidadeMedida>
+      </Indicador>
+      <Ods>
+         <CodigoODS>3</CodigoODS>
+         <Metas>
+            <CodigoMeta>120</CodigoMeta>
+         </Metas>
+      </Ods>
+      <Ods>
+         <CodigoODS>10</CodigoODS>
+         <Metas>
+            <CodigoMeta>182</CodigoMeta>
+         </Metas>
+      </Ods>
+      <Ods>
+         <CodigoODS>11</CodigoODS>
+         <Metas>
+            <CodigoMeta>192</CodigoMeta>
+         </Metas>
+      </Ods>
+   </Programa>
+   <Programa>
+      <NumeroPrograma>0010</NumeroPrograma>
+      <TipoPrograma>2</TipoPrograma>
+      <ClassificacaoPrograma>1</ClassificacaoPrograma>
+      <NomePrograma>JAHU MAIS AGIL, ACESSIVEL E URBANIZADA</NomePrograma>
+      <ObjetivoPrograma>REDUZIR O TEMPO MEDIO DISPENDIDO PELOS MORADORES DE JAHU PARA IR E VOLTAR AO TRABALHO , CONSIDERANDO A MELHORIA DA FLUIDEZ DO TRANSITO, ACESSSIBILIDADE E AGILIDADE DO TRANSPORTECOLETIVO, BEM COMO OFERECER INFRAESTRUTURA DE TRANSPORTES ALTERNATIVOS.</ObjetivoPrograma>
+      <JustificativaPrograma>PROMOVER A REQUALIFICACAO DA MOBILIADE URBANA, DIRECIONANDOESFORCOS EM INFRAESTRUTURA, URBANISMO E ESTUDOS QUE ORIEN-TAM O CRESCIMENTO SUSTENTAVEL DA CIDADE, BUSCANDO AGILIDADEFLUIDEZ, ACESSIBILIDADE, CONFORTO E SEGURANCA NO SISTEMAVIARIO E TRANSPORTE.</JustificativaPrograma>
+      <Indicador>
+         <CodigoIndicador>14</CodigoIndicador>
+         <NomeIndicador>QUANTIDADE DE RECAPEAMENTO POR ANO</NomeIndicador>
+         <UnidadeMedida>M2   </UnidadeMedida>
+      </Indicador>
+      <Ods>
+         <CodigoODS>11</CodigoODS>
+         <Metas>
+            <CodigoMeta>192</CodigoMeta>
+            <CodigoMeta>197</CodigoMeta>
+         </Metas>
+      </Ods>
+   </Programa>
+   <Programa>
+      <NumeroPrograma>0011</NumeroPrograma>
+      <TipoPrograma>2</TipoPrograma>
+      <ClassificacaoPrograma>2</ClassificacaoPrograma>
+      <NomePrograma>MORADIA DIGNA PARA TODOS</NomePrograma>
+      <ObjetivoPrograma>SATISFAZER A DEMANDA HABITACIONAL COM RECURSOS PUBLICOS OUATRAVES DA REGULAZAO DA PRODUCAO PRIVADA DE HABITACOES DE INTERESSE SOCIAL, VISANDO REDUZIR O DEFICIT HABITACIONAL, ERRADICAR OS ASSENTAMENTOS PRECARIOS E SITUACOES DE PESSOAS QUE NAO TEM MORADIA FIXA E VIVE NAS RUAS.</ObjetivoPrograma>
+      <JustificativaPrograma>AMPLIAR O ACESSO A MORADIA DIGNA PARA FAMILIAS CARENTES PORMEIO DA PROMOCAO DE ACOES DE INFRAESTRUTURA URBANA E DE RE-GULARIZACAO FUNDIARIA, PROMOVENDO MELHORES CONDICOES DE HA-BITABILIADE, SEGURANCA E DE DIGNIDADE AOS CIDADAOS; FACILI-TAR AS INSCRICOES NOS PROGRAMAS HABITACIONAIS E ATUALIZAR OPLANO MUNICIPAL DE HABITACAO, VISANDO AMPLIAR A OFERTA DEMORADIA AS FAMILIAS DE BAIXA RENDA.</JustificativaPrograma>
+      <Indicador>
+         <CodigoIndicador>2</CodigoIndicador>
+         <NomeIndicador>ATIVIDADES ADMINISTRATIVAS REALIZADAS</NomeIndicador>
+         <UnidadeMedida>%    </UnidadeMedida>
+      </Indicador>
+      <Ods>
+         <CodigoODS>6</CodigoODS>
+         <Metas>
+            <CodigoMeta>148</CodigoMeta>
+            <CodigoMeta>149</CodigoMeta>
+         </Metas>
+      </Ods>
+      <Ods>
+         <CodigoODS>11</CodigoODS>
+         <Metas>
+            <CodigoMeta>191</CodigoMeta>
+         </Metas>
+      </Ods>
+   </Programa>
+   <Programa>
+      <NumeroPrograma>0012</NumeroPrograma>
+      <TipoPrograma>2</TipoPrograma>
+      <ClassificacaoPrograma>2</ClassificacaoPrograma>
+      <NomePrograma>PODER LEGISLATIVO</NomePrograma>
+      <ObjetivoPrograma>REPRESENTAR A POVO JAUSENTE, LEGISLAR SOBRE OS ASSUNTOS DEINTERESSE MUNICIPAL E FISCALIZAR A APLICACAO DOS RECURSOS PUBLICOS.</ObjetivoPrograma>
+      <JustificativaPrograma>FISCALIZAR AS ACOES DO PODER EXECUTIVO E COLETAR AS DEMANDAS DA POPULACAO JAUENSE.</JustificativaPrograma>
+      <Indicador>
+         <CodigoIndicador>2</CodigoIndicador>
+         <NomeIndicador>ATIVIDADES ADMINISTRATIVAS REALIZADAS</NomeIndicador>
+         <UnidadeMedida>%    </UnidadeMedida>
+      </Indicador>
+      <NaoAtreladoODS/>
+   </Programa>
+   <Programa>
+      <NumeroPrograma>9999</NumeroPrograma>
+      <TipoPrograma>2</TipoPrograma>
+      <ClassificacaoPrograma>2</ClassificacaoPrograma>
+      <NomePrograma>RESERVA DE CONTINGENCIA</NomePrograma>
+      <ObjetivoPrograma>RESERVA DE CONTINGENCIA     </ObjetivoPrograma>
+      <JustificativaPrograma>RESERVA PARA CONTINGENCIA, OU SEJA, PARA POSSIVEL EVENTO INCERTO NO FUTURO, COMO CALAMIDADES NATURAIS.</JustificativaPrograma>
+      <Indicador>
+         <CodigoIndicador>12</CodigoIndicador>
+         <NomeIndicador>RESERVA DE CONTINGENCIA EM RELACAO A RCL</NomeIndicador>
+         <UnidadeMedida>%    </UnidadeMedida>
+      </Indicador>
+      <NaoAtreladoODS/>
+   </Programa>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>0001</gen:NumeroAcao>
+         <gen:TipoAcao>3</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>GESTAO DAS DIVIDAS PUBLICAS E ENCARGOS</NomeAcao>
+      <MetaAcao>ATIVIDADES ADMINISTRATIVAS REALIZADAS</MetaAcao>
+      <UnidadeMedidaAcao>%    </UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>1001</gen:NumeroAcao>
+         <gen:TipoAcao>1</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>CONSTRUCAO, AMPLIACAO E REFORMA DE ESCOLAS MUNICIPAIS</NomeAcao>
+      <MetaAcao>ESCOLAS REFORMADAS OU CONSTRUIDAS</MetaAcao>
+      <UnidadeMedidaAcao>UNIDADE</UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>1002</gen:NumeroAcao>
+         <gen:TipoAcao>1</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>CONSTRUCAO, AMPLIACAO E REFORMA DE UNIDADES BASICAS DE SAUDE</NomeAcao>
+      <MetaAcao>UNIDADES DE SAUDE REFORMADAS OU CONSTRUIDAS</MetaAcao>
+      <UnidadeMedidaAcao>UNIDADE</UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>1003</gen:NumeroAcao>
+         <gen:TipoAcao>1</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>REFORMAS E AMPLIACOES DOS PROPRIOS MUNICIPAIS</NomeAcao>
+      <MetaAcao>REFORMAS E AMPLIACOES REALIZADAS</MetaAcao>
+      <UnidadeMedidaAcao>UNIDADE</UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>1004</gen:NumeroAcao>
+         <gen:TipoAcao>1</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>CONSTRUCAO, AMPLIACAO E REFORMA DE ESPACOS CULTURAIS</NomeAcao>
+      <MetaAcao>REFORMAS E AMPLIACOES REALIZADAS</MetaAcao>
+      <UnidadeMedidaAcao>UNIDADE</UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>1005</gen:NumeroAcao>
+         <gen:TipoAcao>1</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>CONSTRUCAO, AMPLIACAO E REFORMA DE ESPACOS ESPORTIVOS</NomeAcao>
+      <MetaAcao>REFORMAS E AMPLIACOES REALIZADAS</MetaAcao>
+      <UnidadeMedidaAcao>UNIDADE</UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>1006</gen:NumeroAcao>
+         <gen:TipoAcao>1</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>CONSTRUCAO, AMPLIACAO E REFORMA DA CAMARA MUNICIPAL</NomeAcao>
+      <MetaAcao>REFORMAS E AMPLIACOES REALIZADAS</MetaAcao>
+      <UnidadeMedidaAcao>UNIDADE</UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2001</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>MANUTENCAO DO GABINETE DO PREFEITO E DEPENDENCIAS</NomeAcao>
+      <MetaAcao>ATIVIDADES ADMINISTRATIVAS REALIZADAS</MetaAcao>
+      <UnidadeMedidaAcao>%    </UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2002</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>MANUTENCAO DAS ATIVIDADES ADMINISTRATIVAS DA SECRETARIA</NomeAcao>
+      <MetaAcao>ATIVIDADES ADMINISTRATIVAS REALIZADAS</MetaAcao>
+      <UnidadeMedidaAcao>%    </UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2003</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>MANUTENCAO DO TRANSPORTE ESCOLAR</NomeAcao>
+      <MetaAcao>ALUNOS TRANSPORTADOS</MetaAcao>
+      <UnidadeMedidaAcao>QUANTIDADE</UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2004</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>GESTAO DOS SERVICOS DO ENSINO FUNDAMENTAL</NomeAcao>
+      <MetaAcao>ALUNOS MATRICULADOS NO ENSINO FUNDAMENTAL</MetaAcao>
+      <UnidadeMedidaAcao>QUANTIDADE</UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2005</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>GESTAO DAS SUBVENCOES, TERMOS DE FOMENTO E COLABORACAO</NomeAcao>
+      <MetaAcao>NUMERO DE CONVENIOS FIRMADOS</MetaAcao>
+      <UnidadeMedidaAcao>QUANTIDADE</UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2006</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>MANUTENCAO DO FUNDEB 70%</NomeAcao>
+      <MetaAcao>PROFESSORES MUNICIPAIS</MetaAcao>
+      <UnidadeMedidaAcao>QUANTIDADE</UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2007</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>MANUTENCAO DO FUNDEB 30%</NomeAcao>
+      <MetaAcao>FUNCIONARIOS DE APOIO NAS UNIDADES ESCOLARES</MetaAcao>
+      <UnidadeMedidaAcao>QUANTIDADE</UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2008</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>GESTAO DOS SERVICOS DO ENSINO DE JOVENS E ADULTOS</NomeAcao>
+      <MetaAcao>ALUNOS MATRICULADOS NO EJA</MetaAcao>
+      <UnidadeMedidaAcao>QUANTIDADE</UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2009</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>GESTAO DOS SERVICOS DO ENSINO INFANTIL</NomeAcao>
+      <MetaAcao>ALUNOS MATRICULADOS NO ENSINO INFANTIL</MetaAcao>
+      <UnidadeMedidaAcao>QUANTIDADE</UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2010</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>MANUTENCAO DA MERENDA ESCOLAR</NomeAcao>
+      <MetaAcao>REFEICOES SERVIDAS POR ANO</MetaAcao>
+      <UnidadeMedidaAcao>QUANTIDADE</UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2011</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>GESTAO DAS ACOES DE ATENCAO BASICA EM SAUDE</NomeAcao>
+      <MetaAcao>COBERTURA POPULACIONAL PELA ATENCAO BASICA</MetaAcao>
+      <UnidadeMedidaAcao>%    </UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2012</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>GESTAO DAS ACOES DE MEDIA E ALTA COMPLEXIDADE EM SAUDE</NomeAcao>
+      <MetaAcao>AUMENTO OFERTA DE EXAMES E CONSULTAS MED ESPECIALI</MetaAcao>
+      <UnidadeMedidaAcao>%    </UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2013</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>GESTAO DAS ACOES DE ASSISTENCIA FARMACEUTICA</NomeAcao>
+      <MetaAcao>IMPLANTACAO DE SISTEMA INFORMATIZADO DE GESTAO</MetaAcao>
+      <UnidadeMedidaAcao>%    </UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2014</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>GESTAO DAS ACOES DE VIGILANCIA SANITARIA</NomeAcao>
+      <MetaAcao>ESTABELECIMENTOS CADASTRADOS FISCALIZADOS</MetaAcao>
+      <UnidadeMedidaAcao>%    </UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2015</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>GESTAO DAS ACOES DE VIGILANCIA EPIDEMIOLOGICA</NomeAcao>
+      <MetaAcao>REGISTROS DE OBITOS COM CAUSA BASICA DEFINICA</MetaAcao>
+      <UnidadeMedidaAcao>%    </UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2016</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>MANUTENCAO DO CORPO DE BOMBEIROS</NomeAcao>
+      <MetaAcao>OCORRENCIAS REALIZADAS</MetaAcao>
+      <UnidadeMedidaAcao>QUANTIDADE</UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2017</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>GESTAO DOS SERVICOS DE PROTECAO SOCIAL BASICA</NomeAcao>
+      <MetaAcao>FAMILIAS CADASTRADAS</MetaAcao>
+      <UnidadeMedidaAcao>QUANTIDADE</UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2018</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>GESTAO DO FUNDO MUNICIPAL DOS DIREITOS DA CRIANCAE DO ADOLESCENTE</NomeAcao>
+      <MetaAcao>FAMILIAS CADASTRADAS</MetaAcao>
+      <UnidadeMedidaAcao>QUANTIDADE</UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2019</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>GESTAO DOS SERVICOS DE PROTECAO SOCIAL ESPECIAL</NomeAcao>
+      <MetaAcao>FAMILIAS CADASTRADAS</MetaAcao>
+      <UnidadeMedidaAcao>QUANTIDADE</UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2020</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>MANUTENCAO E CONSERVACAO DAS VIAS PUBLICAS</NomeAcao>
+      <MetaAcao>QUANTIDADE DE RECAPEAMENTO POR ANO</MetaAcao>
+      <UnidadeMedidaAcao>M2   </UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2021</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>DESENVOLVIMENTO E PROMOCAO CULTURAL</NomeAcao>
+      <MetaAcao>EVENTOS CULTURAIS REALIZADOS</MetaAcao>
+      <UnidadeMedidaAcao>QUANTIDADE</UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2022</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>GESTAO E FOMENTO DO ESPORTE</NomeAcao>
+      <MetaAcao>EVENTOS ESPORTIVOS REALIZADOS</MetaAcao>
+      <UnidadeMedidaAcao>QUANTIDADE</UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2023</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>GESTAO DO FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</NomeAcao>
+      <MetaAcao>ATIVIDADES ADMINISTRATIVAS REALIZADAS</MetaAcao>
+      <UnidadeMedidaAcao>%    </UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2024</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>GESTAO DO CADASTRO UNICO - IGD</NomeAcao>
+      <MetaAcao>ATIVIDADES ADMINISTRATIVAS REALIZADAS</MetaAcao>
+      <UnidadeMedidaAcao>%    </UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2025</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>MANUTENCAO DAS ATIVIDADES ADMINISTRATIVAS DA CAMARA MUNICIPAL</NomeAcao>
+      <MetaAcao>ATIVIDADES ADMINISTRATIVAS REALIZADAS</MetaAcao>
+      <UnidadeMedidaAcao>%    </UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2026</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>MANUTENCAO DAS ATIVIDADES ADMINISTRATIVAS DA AGENCIA REGULADORA - SAEMJA</NomeAcao>
+      <MetaAcao>ATIVIDADES ADMINISTRATIVAS REALIZADAS</MetaAcao>
+      <UnidadeMedidaAcao>%    </UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>2027</gen:NumeroAcao>
+         <gen:TipoAcao>2</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>MANUTENCAO DO IPMJ</NomeAcao>
+      <MetaAcao>ATIVIDADES ADMINISTRATIVAS REALIZADAS</MetaAcao>
+      <UnidadeMedidaAcao>%    </UnidadeMedidaAcao>
+   </Acao>
+   <Acao>
+      <AcaoGoverno>
+         <gen:NumeroAcao>9999</gen:NumeroAcao>
+         <gen:TipoAcao>4</gen:TipoAcao>
+      </AcaoGoverno>
+      <NomeAcao>RESERVA DE CONTINGENCIA</NomeAcao>
+      <MetaAcao>RESERVA DE CONTINGENCIA</MetaAcao>
+      <UnidadeMedidaAcao>%    </UnidadeMedidaAcao>
+   </Acao>
+</CadastroPlanejamento>
